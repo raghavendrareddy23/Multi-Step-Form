@@ -38,3 +38,13 @@ The Multi-Step Form project is a React-based application designed to facilitate 
 
 ---
 
+## Demo
+
+Check out the live deployment of the Multi-Step Form project on Netlify:
+
+[Multi-Step Form - Live Demo](https://raghava-multi-step-form.netlify.app/)
+
+Feel free to explore the form, navigate through the steps, and submit your information.
+
+---
+
